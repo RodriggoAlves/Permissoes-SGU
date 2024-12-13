@@ -73,6 +73,5 @@ function findAndCopySelectHTML() {
  
     alert("Código HTML do <select> copiado para a área de transferência!");
 }
- 
-// Executa a função
+
 findAndCopySelectHTML();
