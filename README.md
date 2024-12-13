@@ -1,4 +1,4 @@
-# Documentação do Script - Facilitação da Criação de Usuários no Sistema SGU
+# Script - Facilitação da Criação de Usuários no Sistema SGU
 
 Este script foi desenvolvido com o objetivo de **facilitar a criação de usuários** no **Sistema SGU** da Unimed Goiânia. Ele visa automatizar a cópia do código HTML de um campo de seleção específico no sistema, o que contribui para a otimização do processo de vinculação de usuários ou dependentes.
 
